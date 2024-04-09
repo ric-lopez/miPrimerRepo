@@ -1,0 +1,15 @@
+/Users/richard/cursoNetCore/gitClase/miPrimerRepo/ejemploParaGit/bin/Debug/net8.0/ejemploParaGit
+/Users/richard/cursoNetCore/gitClase/miPrimerRepo/ejemploParaGit/bin/Debug/net8.0/ejemploParaGit.deps.json
+/Users/richard/cursoNetCore/gitClase/miPrimerRepo/ejemploParaGit/bin/Debug/net8.0/ejemploParaGit.runtimeconfig.json
+/Users/richard/cursoNetCore/gitClase/miPrimerRepo/ejemploParaGit/bin/Debug/net8.0/ejemploParaGit.dll
+/Users/richard/cursoNetCore/gitClase/miPrimerRepo/ejemploParaGit/bin/Debug/net8.0/ejemploParaGit.pdb
+/Users/richard/cursoNetCore/gitClase/miPrimerRepo/ejemploParaGit/obj/Debug/net8.0/ejemploParaGit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/richard/cursoNetCore/gitClase/miPrimerRepo/ejemploParaGit/obj/Debug/net8.0/ejemploParaGit.AssemblyInfoInputs.cache
+/Users/richard/cursoNetCore/gitClase/miPrimerRepo/ejemploParaGit/obj/Debug/net8.0/ejemploParaGit.AssemblyInfo.cs
+/Users/richard/cursoNetCore/gitClase/miPrimerRepo/ejemploParaGit/obj/Debug/net8.0/ejemploParaGit.csproj.CoreCompileInputs.cache
+/Users/richard/cursoNetCore/gitClase/miPrimerRepo/ejemploParaGit/obj/Debug/net8.0/ejemploParaGit.sourcelink.json
+/Users/richard/cursoNetCore/gitClase/miPrimerRepo/ejemploParaGit/obj/Debug/net8.0/ejemploParaGit.dll
+/Users/richard/cursoNetCore/gitClase/miPrimerRepo/ejemploParaGit/obj/Debug/net8.0/refint/ejemploParaGit.dll
+/Users/richard/cursoNetCore/gitClase/miPrimerRepo/ejemploParaGit/obj/Debug/net8.0/ejemploParaGit.pdb
+/Users/richard/cursoNetCore/gitClase/miPrimerRepo/ejemploParaGit/obj/Debug/net8.0/ejemploParaGit.genruntimeconfig.cache
+/Users/richard/cursoNetCore/gitClase/miPrimerRepo/ejemploParaGit/obj/Debug/net8.0/ref/ejemploParaGit.dll
