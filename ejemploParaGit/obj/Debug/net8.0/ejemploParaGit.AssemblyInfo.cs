@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ejemploParaGit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c935a6897cd0684d61e3352b5b5d4016c3741b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+190751475a42c76efed006b237d9dd9a4e5a5859")]
 [assembly: System.Reflection.AssemblyProductAttribute("ejemploParaGit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ejemploParaGit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
